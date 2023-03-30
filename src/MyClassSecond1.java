@@ -20,3 +20,4 @@ public class MyClassSecond1 {
         return result;
     }
 }
+
