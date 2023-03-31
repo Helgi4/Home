@@ -48,6 +48,7 @@ public class MyClassThird2 {
             default:
                 System.out.println("Invalid month number.");
                 break;
+
         }
     }
 }
