@@ -1,4 +1,4 @@
-public class MyClassThird {
+public class MyClassThird1 {
     public static void main(String[] args) {
         String word1 = "Oleh";
         String word2 = "Andriana";
