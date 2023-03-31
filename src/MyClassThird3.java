@@ -45,6 +45,7 @@ public class MyClassThird3 {
                 System.out.print("* ");
             }
             System.out.println();
+
         }
     }
 }
